@@ -4,6 +4,7 @@ html {
     font-family: 'Courier New', Courier, monospace;
 }
 
+
 #header {
     text-align: center;
     width: 95%;
@@ -21,10 +22,12 @@ html {
     text-align: justify;
 }
 
+
 h3 {
     width: 95%;
     margin: 1rem auto;
 }
+
 
 .keyboard-container {
     padding: 1rem;
@@ -34,6 +37,7 @@ h3 {
     gap: 0.8rem;
     margin-top: 2rem;
 }
+
 
 button {
     font-size: 1rem;
@@ -70,6 +74,7 @@ button:active {
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
 }
+
 
 #output {
     padding: 4rem;
