@@ -4,7 +4,7 @@ const dynamicText = document.getElementById('dynamic-text'); // Select output of
 
 
 function addTextToWeddingCard(buttonText) {
-    dynamicText.innerHTML += buttonText + '<br/>'; // Add text to output of card 
+    dynamicText.innerHTML += buttonText + '<br/>'; // Add text to output of card between greeting and closing phrase
 }
 
 buttons.forEach(button => {
